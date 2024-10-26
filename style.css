@@ -1,0 +1,46 @@
+.gallery {
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .wrap_video_item{
+    width: 30%;
+    height: auto;
+
+  }
+  video{
+    width: 100%;
+    height: auto;
+  }
+
+  h2 {
+    color: rgb(94, 89, 89);
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+  }
+
+  h3{
+    color: rgb(94, 89, 89);
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  h1 {
+    color: rgb(71, 65, 65);
+  }
+
+  hr {
+    border: none; 
+    background-color: rgb(66, 61, 61); 
+    color: rgb(66, 61, 61); 
+    height: 2px; 
+   }
+
+   a {
+    color:rgb(77, 67, 70)
+   }
